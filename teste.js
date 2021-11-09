@@ -1,1 +1,1 @@
-alert(0) teste
+alert(0) teste novo commit
